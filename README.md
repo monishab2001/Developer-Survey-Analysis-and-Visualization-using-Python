@@ -8,7 +8,6 @@ This project focuses on analyzing and visualizing data from a **developer survey
 - **EDA Notebook** (`Exploratory Data Analysis.ipynb`)
 - **Visualization Notebook** (`Data Visualization.ipynb`)
 - A viewable **PDF of the Dashboard**  (can access the dashboard online here : [**Dashboard Link**](https://app.powerbi.com/view?r=eyJrIjoiMzdlY2ZkZTEtMGI1NS00MjQ3LWE3YTctOTQ4YzMyNTVmMDE2IiwidCI6ImI0MmFhYTY2LTA2NWMtNDE2NS05MGE3LTgwMjIyMmViY2U1MSJ9) )
-- CSV files of raw and processed data
 
 ## How to Use
 1. Clone the repository
@@ -17,7 +16,7 @@ This project focuses on analyzing and visualizing data from a **developer survey
    
 ## Process
 ### 1. Data Processing - Acquisition, Exploration, Wrangling
-- Loaded the raw survey data acquired from a public url as a csv file into the analysis environment.
+- Loaded the raw survey data acquired from a public url as a csv file into the analysis environment. ([URL](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DA0321EN-SkillsNetwork/LargeData/m1_survey_data.csv))
 - Performed an initial exploration of the dataset.
 - Handled missing values, duplicates, and data inconsistencies.
 - Transformed and structured data for better analysis.
