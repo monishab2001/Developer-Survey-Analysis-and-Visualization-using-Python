@@ -7,7 +7,8 @@ This project focuses on analyzing and visualizing data from a **developer survey
 - **Data Processing Notebook** (`Data Processing - Acquisition, Exploration, and Wrangling.ipynb`)
 - **EDA Notebook** (`Exploratory Data Analysis.ipynb`)
 - **Visualization Notebook** (`Data Visualization.ipynb`)
-- [**Dashboard Link**](https://app.powerbi.com/view?r=eyJrIjoiMzdlY2ZkZTEtMGI1NS00MjQ3LWE3YTctOTQ4YzMyNTVmMDE2IiwidCI6ImI0MmFhYTY2LTA2NWMtNDE2NS05MGE3LTgwMjIyMmViY2U1MSJ9) with a viewable PDF of the dashboard
+- [**Dashboard Link**](https://app.powerbi.com/view?r=eyJrIjoiMzdlY2ZkZTEtMGI1NS00MjQ3LWE3YTctOTQ4YzMyNTVmMDE2IiwidCI6ImI0MmFhYTY2LTA2NWMtNDE2NS05MGE3LTgwMjIyMmViY2U1MSJ9) w
+-  A viewable PDF of the dashboard
 - CSV files of raw and processed data
 
 ## How to Use
@@ -17,7 +18,7 @@ This project focuses on analyzing and visualizing data from a **developer survey
    
 ## Process
 ### 1. Data Processing - Acquisition, Exploration, Wrangling
-- Acquired data from a public URL (CSV format) and loaded it into the analysis environment.
+- Loaded the raw survey data acquired from a public url as a csv file into the analysis environment.
 - Performed an initial exploration of the dataset.
 - Handled missing values, duplicates, and data inconsistencies.
 - Transformed and structured data for better analysis.
