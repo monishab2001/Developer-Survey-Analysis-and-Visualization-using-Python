@@ -7,8 +7,7 @@ This project focuses on analyzing and visualizing data from a **developer survey
 - **Data Processing Notebook** (`Data Processing - Acquisition, Exploration, and Wrangling.ipynb`)
 - **EDA Notebook** (`Exploratory Data Analysis.ipynb`)
 - **Visualization Notebook** (`Data Visualization.ipynb`)
-- [**Dashboard Link**](https://app.powerbi.com/view?r=eyJrIjoiMzdlY2ZkZTEtMGI1NS00MjQ3LWE3YTctOTQ4YzMyNTVmMDE2IiwidCI6ImI0MmFhYTY2LTA2NWMtNDE2NS05MGE3LTgwMjIyMmViY2U1MSJ9) 
-- A viewable PDF of the dashboard
+- A viewable **PDF of the Dashboard**  (can access the dashboard online here : [**Dashboard Link**](https://app.powerbi.com/view?r=eyJrIjoiMzdlY2ZkZTEtMGI1NS00MjQ3LWE3YTctOTQ4YzMyNTVmMDE2IiwidCI6ImI0MmFhYTY2LTA2NWMtNDE2NS05MGE3LTgwMjIyMmViY2U1MSJ9) )
 - CSV files of raw and processed data
 
 ## How to Use
